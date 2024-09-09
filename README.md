@@ -50,35 +50,35 @@
 :page_with_curl:**Diagrama de casos de uso 2 - Aproveitamento dos Estudos**:
 ![Diagrama de casos de uso 2](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/main/Diagrama%20de%20caso%20de%20uso%202%20-%20Aproveitamento%20dos%20estudos.jpg)
 
- ### **Telas** :
+  ### **Telas** :
  
 :page_with_curl:**Pagina Inicial**:
 
-![image](https://github.com/user-attachments/assets/6df671d0-dd43-4cc0-9f1f-6714e7711ff4)
+![image](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/3b77aebfa367d7f67246580ee26e6bd292bdfb0b/Main.png)
 
 :page_with_curl:**Pagina de Login**:
 
-![image](https://github.com/user-attachments/assets/fc364274-f310-47e2-9774-6f37b0fdf283)
+![image](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/3b77aebfa367d7f67246580ee26e6bd292bdfb0b/Login.png)
 
 :page_with_curl:**Pagina de Cadastro**:
 
-![image](https://github.com/user-attachments/assets/d3420bb2-11dd-4cf7-a087-e968d87af9fa)
+![image](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/3b77aebfa367d7f67246580ee26e6bd292bdfb0b/Cadastro.png)
 
 :page_with_curl:**Pagina do Aluno**:
 
-![image](https://github.com/user-attachments/assets/77d631d9-16d0-476e-9112-65ab315b89aa)
+![image](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/3b77aebfa367d7f67246580ee26e6bd292bdfb0b/P%C3%A1gina%20Aluno.png)
 
 :page_with_curl:**Pagina do Professor**:
 
-![image](https://github.com/user-attachments/assets/02a1c8bf-da5a-48ac-bb2d-495b55e9c872)
+![image](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/3b77aebfa367d7f67246580ee26e6bd292bdfb0b/P%C3%A1gina%20Professor.png)
 
 :page_with_curl:**Pagina do Atendente**:
 
-![image](https://github.com/user-attachments/assets/0be2c9a5-a514-4b9e-9476-99a94b7bfb67)
+![image](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/3b77aebfa367d7f67246580ee26e6bd292bdfb0b/P%C3%A1gina%20Atendente.png)
 
 :page_with_curl:**Pagina de Contato**:
 
-![image](https://github.com/user-attachments/assets/bf756d10-34e2-4f6b-9286-c3d32a3b7c01)
+![image](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/3b77aebfa367d7f67246580ee26e6bd292bdfb0b/P%C3%A1gina%20Contato.png)
 
 
 ### :genie: Desenvolvedores:
